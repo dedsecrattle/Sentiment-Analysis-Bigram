@@ -133,6 +133,12 @@ The model generates binary predictions (0 or 1) based on a threshold of 0.5. The
    - Threshold-based classification
    - Saves predictions to file
 
+## Performance
+
+| Accuracy |
+| -------- |
+| 86.6%    |
+
 ## Error Handling
 
 The implementation includes checks for:
